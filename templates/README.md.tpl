@@ -7,6 +7,8 @@ I'm Westley; Honestly, not much to introduce myself, I'm a dual-enrolled student
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+#### Check out my hackatime badge!
+Full disclosure, I would much rather have my WakaTime graph working, but the instructions on HackaTime are broken, and I can't figure it out.
+![Hackatime Badge](https://github-readme-stats.hackclub.dev/api/wakatime?username=11204&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=midnight-purple)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/charmbracelet/readme-scribe)!

@@ -6,12 +6,12 @@
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentCreatedRepos "charmbracelet" 10}}
+{{range recentCreatedRepos "Westley-R" 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🍴 My recent forks
-{{range recentForkedRepos "charmbracelet" 10}}
+{{range recentForkedRepos "Westley-R" 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
